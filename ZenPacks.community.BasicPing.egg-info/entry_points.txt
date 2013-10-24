@@ -1,0 +1,3 @@
+[zenoss.zenpacks]
+ZenPacks.community.BasicPing = ZenPacks.community.BasicPing
+
